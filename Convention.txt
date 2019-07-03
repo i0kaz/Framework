@@ -1,0 +1,14 @@
+Convention :
+
+    Début de fichier / fonction :
+    
+    /**
+    *  [nom] :
+    *
+    *  [desc]
+    */
+
+    BDD :
+
+        - Toujours : 
+            * id = index
